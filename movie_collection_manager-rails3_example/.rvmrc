@@ -1,0 +1,2 @@
+rvm_gemset_create_on_first_use=1
+rvm use 1.9.2@movie-collection-example

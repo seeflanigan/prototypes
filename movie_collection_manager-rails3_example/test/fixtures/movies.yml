@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  title: Movie1
+  rating: R
+  run_time_in_minutes: 120
+
+two:
+  title: Movie2
+  rating: PG
+  run_time_in_minutes: 90
